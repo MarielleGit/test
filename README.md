@@ -39,12 +39,11 @@ Running the Collection (Automated):
    - '1) Get POIs (exactly 5 within 10km of London)'  
    - '2) Get Reference Data (ChargerTypes & StatusTypes)'  
 6. Keep the default settings (Iterations = 1, Delay = 0).  
-7. Click **Run OpenChargeMap API Tests – Station POIs & Reference Data**.  
-
-Postman will now execute all requests in the collection in sequence and show a consolidated report of the test results.
+7. Click **Run OpenChargeMap API Tests – Station POIs & Reference Data**.
+   
 **Note:** On the **first run**, one or two tests may occasionally fail due to response caching or data variability. From the **second run onwards**, the results tend to stabilize and all tests pass consistently (except for known dataset mismatches, such as “Fast/Slow” wording differences).
 
-## 📊 Test Results & Observations
+## Test Results & Observations
 
 Collection executed: **OpenChargeMap API Tests – Station POIs & Reference Data**
 
