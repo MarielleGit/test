@@ -1,4 +1,4 @@
-How to Import and Run:
+## How to Import and Run:
 1. Go to the repository on GitHub and **download the collection file**:  
    - 'OpenChargeMap API Tests - Station POIs & Reference Data.postman_collection.json'  
    - To download:  
@@ -29,7 +29,7 @@ Configure authentication:
      - **Token**: paste your valid OpenChargeMap API key  
 
 - Save the collection.  
-Running the Collection (Automated):
+## Running the Collection (Automated):
 ### Steps
 1. In Postman, go to the **Collections** level.  
 2. Hover over **OpenChargeMap API Tests – Station POIs & Reference Data**.  
