@@ -21,7 +21,7 @@ The collection uses the variable '{{api_key}}' for authentication.
 - Inspect calls to 'api.openchargemap.io'.
 - Copy the value of the query parameter 'x-api-key=...'.
 
-Configure authentication:  
+## Configure authentication:  
    - Select the collection.  
    - Go to the **Auth** tab.  
    - Set:  
